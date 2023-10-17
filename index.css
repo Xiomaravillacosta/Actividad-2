@@ -1,0 +1,27 @@
+#formulario{
+    width: 375px;
+    border: solid 1px lightgrey;
+    padding: 21px;
+    background-color: darkmagenta;
+    border-radius: 10px;
+    margin-left: calc(50% - 180px);
+    margin-top: 10px;
+
+}
+#tabla{
+    align-self: center;
+    padding-top: 20px;
+
+   
+}
+.row{
+    margin: auto;
+}
+#buscador{
+    margin: 20px;
+    text-align: -webkit-center;
+  
+}
+#botonbuscars{
+    margin: 10px;
+}
